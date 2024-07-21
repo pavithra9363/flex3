@@ -1,0 +1,63 @@
+.head{
+    height: 100px;
+    border-radius: 5px;
+    background-color: red;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+    
+}
+.hole{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+     justify-content: space-between; 
+}
+.aside1{
+    /* height: 300px; */
+    width: 30%;
+    border-radius: 10px;
+    background-color: yellow;
+    font-family: arial black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top:  20px;
+
+}
+.para{
+    /* height: 300px; */
+    width: 35%;
+    border-radius: 10px;
+    background-color:rgb(26, 156, 207);
+     margin-top:20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 10px;
+    /* flex-grow: 1;  */
+}
+.aside2{
+    /* height: 300px; */
+    width: 30%;
+    border-radius: 10px;
+    background-color:rgb(216, 43, 130);
+    font-family: arial black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px; 
+    
+
+}
+.foot{
+    height: 80px;
+    border-radius: 5px;
+    background-color:rgb(168, 233, 70);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 10px;
+
+}
